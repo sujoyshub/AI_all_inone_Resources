@@ -28,3 +28,7 @@ Here are some resources on generative Artificial Intelligence:
 ## Code:
 1. [Generative AI Coding: Top 10+ Use Cases & 5 Tools in 2024 on AIMultiple.](https://research.aimultiple.com/generative-ai-coding)
 2. 
+
+
+> [!NOTE]
+> The list will be appended on regular basis, let's be patience.
